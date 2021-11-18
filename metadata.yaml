@@ -1,0 +1,34 @@
+_repo: At-Odds-with-the-Regent-A-Story-of-the-Cellamare-Conspiracy_66721
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Betts, Anna Whelan
+    gutenberg_agent_id: '7782'
+    url: http://www.gutenberg.org/2009/agents/7782
+  - agent_name: Stevenson, Burton Egbert
+    alias: Stevenson, Burton E.
+    birthdate: 1872
+    deathdate: 1962
+    gutenberg_agent_id: '980'
+    url: http://www.gutenberg.org/2009/agents/980
+    wikipedia: https://en.wikipedia.org/wiki/Burton_Egbert_Stevenson
+description: ''
+gutenberg_issued: '2021-11-13'
+identifiers:
+  gutenberg: '66721'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433112007343&view=1up&seq=11
+pgterms:marc905: 20200924130845stevenson
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :J. B. Lippincott,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'At Odds with the Regent: A Story of the Cellamare Conspiracy'
+url: http://www.gutenberg.org/ebooks/66721
